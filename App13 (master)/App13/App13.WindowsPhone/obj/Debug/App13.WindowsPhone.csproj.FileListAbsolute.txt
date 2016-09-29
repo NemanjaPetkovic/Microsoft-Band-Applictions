@@ -1,0 +1,159 @@
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\App.xbf
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.xr.xml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.exe
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.pdb
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\resources.pri
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.build.appxrecipe
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.dll
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.xml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App.xaml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App.xbf
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.exe
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.pdb
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.csproj.GenerateResource.Cache
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Colm\documents\visual studio 2015\Projects\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.xr.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.exe
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.pdb
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.build.appxrecipe
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Google.Protobuf.dll
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.dll
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.dll
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Phone.pri
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Store.pri
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.exe
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.pdb
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Microsoft.Band.Phone.pri.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Microsoft.Band.Store.pri.xml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Xylophone.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Xylophone.g.i.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Xylophone.g.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Xylophone.xaml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Xylophone.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Menu.g.i.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Menu.g.cs
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\bin\Debug\Menu.xbf
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Menu.xaml
+C:\Users\Elizabeth\Desktop\Colm\App13\App13\App13.WindowsPhone\obj\Debug\Menu.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\App.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\resources.pri
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\App13.WindowsPhone.build.appxrecipe
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Google.Protobuf.dll
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.dll
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Phone.dll
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Store.dll
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\SharpDX.dll
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Phone.pri
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Microsoft.Band.Store.pri
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\SharpDX.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App.xaml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App13.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\Microsoft.Band.Phone.pri.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\Microsoft.Band.Store.pri.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\Advanced.g.i.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\Advanced.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\waves.g.i.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\waves.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\Advanced.xaml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\waves.xaml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\Advanced.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\waves.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\Advanced.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\waves.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\soundboard.g.i.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\soundboard.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\soundboard.xaml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\soundboard.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\soundboard.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\db.g.i.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\db.g.cs
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\db.xaml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\db.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\db.xbf
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\App_v1.xr.xml
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\App_v1.exe
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\bin\Debug\App_v1.pdb
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App_v1.exe
+C:\Users\neman_000\Documents\Visual Studio 2015\Supporting\App13 (master)\App13\App13.WindowsPhone\obj\Debug\App_v1.pdb

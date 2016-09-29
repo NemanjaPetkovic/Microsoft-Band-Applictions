@@ -1,0 +1,6 @@
+CHANGED,C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\microsoft\band\sdk\sampleapp\accelerometer\BandAccelerometerAppActivity$4$override.class
+CHANGED,C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\microsoft\band\sdk\sampleapp\accelerometer\BandAccelerometerAppActivity$5$override.class
+CHANGED,C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\microsoft\band\sdk\sampleapp\accelerometer\BandAccelerometerAppActivity$3$override.class
+CHANGED,C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\microsoft\band\sdk\sampleapp\accelerometer\BandAccelerometerAppActivity$AccelerometerSubscriptionTask$override.class
+CHANGED,C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\microsoft\band\sdk\sampleapp\accelerometer\BandAccelerometerAppActivity$override.class
+CHANGED,C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

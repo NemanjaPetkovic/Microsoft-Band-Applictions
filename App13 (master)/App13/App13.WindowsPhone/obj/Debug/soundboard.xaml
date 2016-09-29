@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="App_v1.soundboard"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App_v1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" >
+
+
+
+
+    <Grid  Margin="0,0.333,0,-0.333" RenderTransformOrigin="0.517,0.497">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF9B0000" Offset="0.176"/>
+                <GradientStop Color="#FE8D8D8D" Offset="0.617"/>
+                <GradientStop Color="#FE9B0000" Offset="0.822"/>
+                <GradientStop Color="#FE8D8D8D" Offset="0.339"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <Button x:ConnectionId='1' x:Name="button1" HorizontalAlignment="Left" Margin="2,-10,0,0" VerticalAlignment="Top" Height="150" Width="133.33"                       Background="Red" BorderBrush="Black" />
+
+
+        <Button x:ConnectionId='2' x:Name="button2" HorizontalAlignment="Left" Margin="133,-10,0,0" VerticalAlignment="Top" Height="150" Width="133.33"                       Background="#FFC5FF00" BorderBrush="Black"/>
+
+
+        <Button x:ConnectionId='3' x:Name="button3" HorizontalAlignment="Left" Margin="265,-10,0,0" VerticalAlignment="Top" Height="150" Width="133.33"                       Background="#FF0068FF" BorderBrush="Black"/>
+
+
+        <Button x:ConnectionId='4' x:Name="Button4" HorizontalAlignment="Left" Margin="2,121,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.424" Height="150" Width="133.33" Background="#FFFF7400" BorderBrush="Black"                      />
+
+
+        <Button x:ConnectionId='5' x:Name="button5" HorizontalAlignment="Left" Margin="133,121,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.424" Height="150" Width="133.33" Background="#FF3AFF00" BorderBrush="Black"                      />
+
+
+        <Button x:ConnectionId='6' x:Name="button6" HorizontalAlignment="Left" Margin="265,121,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.424" Height="150" Width="133.33" Background="#FF8B00FF" BorderBrush="Black"                      />
+
+
+        <Button x:ConnectionId='7' x:Name="advanced" Content="Advanced" HorizontalAlignment="Left" Margin="6,573,0,-2" VerticalAlignment="Top"                        Background="Red" Foreground="White" FontFamily="AR DESTINE" BorderBrush="Black" Height="69" Width="11"/>
+        <Button x:ConnectionId='8' x:Name="basic" Content="Basic" HorizontalAlignment="Left" Margin="286,573,0,0" VerticalAlignment="Top"                     Background="Red" Foreground="White" FontFamily="AR DESTINE" BorderBrush="Black" Height="65"/>
+
+        <Button x:ConnectionId='9' x:Name="button7" HorizontalAlignment="Left" Margin="2,250,0,0" VerticalAlignment="Top" Height="150" Width="133.33"                       Background="#FFFFC500" BorderBrush="Black" />
+
+        <Button x:ConnectionId='10' x:Name="button8" HorizontalAlignment="Left" Margin="133,250,0,0" VerticalAlignment="Top" Height="150" Width="133.33"                       Background="#FF00FF68" BorderBrush="Black"/>
+
+        <Button x:ConnectionId='11' x:Name="button9" HorizontalAlignment="Left" Margin="265,250,0,0" VerticalAlignment="Top" Height="150" Width="133.33"                       Background="#FFFF00F3" BorderBrush="Black"/>
+
+        <Button x:ConnectionId='12' x:Name="button10" HorizontalAlignment="Left" Margin="2,381,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.424" Height="150" Width="133.33" Background="#FFFFF300" BorderBrush="Black"                       />
+
+        <Button x:ConnectionId='13' x:Name="button11" HorizontalAlignment="Left" Margin="133,381,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.424" Height="150" Width="133.33" Background="Cyan" BorderBrush="Black"                       />
+
+        <Button x:ConnectionId='14' x:Name="button12" HorizontalAlignment="Left" Margin="265,381,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.493,0.424" Height="150" Width="133.33" Background="#FFFF0051" BorderBrush="Black"                       />
+
+        <ListBox x:Name="listbox1" Background="White" SelectedIndex="0" BorderBrush="Red"  Margin="130,527,124,11">
+            <TextBlock x:Name="Piano" Text="Piano" FontSize="18" FontWeight="Bold" />
+            <TextBlock x:Name="Drums" Text="Drums" FontSize="18" FontWeight="Bold" />
+            <TextBlock x:Name="Lead" Text="Lead" FontSize="18" FontWeight="Bold"/>
+            <TextBlock  x:Name="Bass" Text="Bass" FontSize="18" FontWeight="Bold"/>
+        </ListBox>
+
+
+
+    </Grid>
+</Page>
+

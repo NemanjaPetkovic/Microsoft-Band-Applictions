@@ -1,0 +1,80 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:id="@+id/btnStop" />
+
+    <TextView
+        android:id="@+id/txtStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/YStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="" />
+
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="90dp"
+        android:layout_below="@+id/imageView"
+        android:layout_marginTop="58dp"
+        android:weightSum="1"
+        android:id="@+id/radioGroup"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_alignRight="@+id/textView3"
+        android:layout_alignEnd="@+id/textView3">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:text="Sine"
+            android:id="@+id/radioButton1"
+            android:layout_gravity="center_horizontal"
+            android:checked="false"
+            android:textSize="25dp" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sine + Vibrato"
+            android:id="@+id/radioButton2"
+            android:layout_gravity="center_horizontal"
+            android:checked="false"
+            android:textSize="25dp"
+            android:layout_weight="0.13" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/ZStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </LinearLayout>
+
+</LinearLayout>

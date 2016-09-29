@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Files><file>\Google.Protobuf.dll</file><file>\Microsoft.Band.dll</file><file>\Microsoft.Band.Phone.dll</file><file>\Microsoft.Band.Store.dll</file><file>\Piano.exe</file><file>\SharpDX.dll</file><file>\SharpDX.XAudio2.dll</file></Files>

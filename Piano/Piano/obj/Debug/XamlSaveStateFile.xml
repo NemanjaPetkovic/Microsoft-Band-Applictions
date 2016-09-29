@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\piano\obj\debug\intermediatexaml\piano.exe" HashGuid="8c3ebacf-94f3-aef8-a254-5b16d805fa36" />
+    <ReferenceAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\packages\microsoft.band.1.3.20420\lib\wpa81\google.protobuf.dll" HashGuid="6215d75d-636e-fb4a-abba-f62392374bae" />
+    <ReferenceAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\packages\microsoft.band.1.3.20420\lib\wpa81\microsoft.band.dll" HashGuid="54721cfb-7e4b-6d4e-56b7-f414314f5ff4" />
+    <ReferenceAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\packages\microsoft.band.1.3.20420\lib\wpa81\microsoft.band.phone.dll" HashGuid="696e97cc-94cd-b3a8-4710-47a68444da59" />
+    <ReferenceAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\packages\microsoft.band.1.3.20420\lib\wpa81\microsoft.band.store.dll" HashGuid="98480add-ab1a-3512-8e3a-2f4238137152" />
+    <ReferenceAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\packages\sharpdx.3.0.2\lib\portable-net45+netcore45+wpa81+monoandroid1+monotouch1\sharpdx.dll" HashGuid="abee0ecf-baa4-f45d-7c75-c1dfec34d264" />
+    <ReferenceAssembly PathName="c:\users\conor\documents\visual studio 2015\projects\piano\packages\sharpdx.xaudio2.3.0.2\lib\portable-net45+netcore45+wpa81+monoandroid1+monotouch1\sharpdx.xaudio2.dll" HashGuid="bcd53e81-3375-f391-1c5a-df232fb17bd3" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

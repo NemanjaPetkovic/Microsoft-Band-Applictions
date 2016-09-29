@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="tvdpi"
+    format="7"
+    timestamp="252537808127766"
+    token="9102336233524364307" >
+
+    <task
+        name="javac"
+        duration="290" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="71" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build timestamp="251328205840043" >
+        <artifact
+            location="C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\outputs\apk\BandAccelerometerApp-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="252516509508233" >
+        <artifact
+            location="C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="252537808127766" >
+        <artifact
+            location="C:\Users\Conor\Desktop\Internship\BandAccelerometerApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
